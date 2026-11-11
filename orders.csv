@@ -1,0 +1,6 @@
+id;id_supplier;invoice_number;date;status
+1;1;GDN 001;2026-10-01;paid
+2;3;GDN 100;2026-10-02;not paid
+3;2;GDN 0022;2026-10-05;not paid
+4;1;GDN 002;2026-10-10;not paid
+5;4;GDN 1110;2026-10-11;not paid
